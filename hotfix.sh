@@ -2,8 +2,6 @@
 
 # THIS IS ONLY FOR WSL2 USERS
 
-DO NOT USE THIS YET IT IS INCORRECT ;)
-
 
 # Check if the "ip route" command is available
 
